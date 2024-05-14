@@ -86,10 +86,9 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
 
 Insert image here
-
+![WhatsApp Image 2024-05-14 at 13 52 44_c513b952](https://github.com/KAMALESHNITHYA/mobilerobot-openloopcontrol/assets/145743119/1c441fbd-c2d3-4217-9929-9fb6ed2a784b)
 
 <br/>
 <br/>
@@ -100,8 +99,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+https://youtube.com/shorts/TojhqaLB608?feature=share
 <br/>
 <br/>
 <br/>
