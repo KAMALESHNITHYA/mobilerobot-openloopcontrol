@@ -88,12 +88,8 @@ if _name_ == '_main_':
 
 
 Insert image here
-![WhatsApp Image 2024-05-14 at 13 52 44_c513b952](https://github.com/KAMALESHNITHYA/mobilerobot-openloopcontrol/assets/145743119/1c441fbd-c2d3-4217-9929-9fb6ed2a784b)
+![WhatsApp Image 2024-05-14 at 13 52 44_c513b952](https://github.com/KAMALESHNITHYA/mobilerobot-openloopcontrol/assets/145743119/7ed311bd-8cdf-4e80-bb0c-f020e8084c1f)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
